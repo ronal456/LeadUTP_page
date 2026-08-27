@@ -38,7 +38,7 @@ export default function AlliedHero() {
 
                 <h2 className="text-3xl font-semibold text-center mt-4
                     text-white drop-shadow-[0_1px_8px_rgba(0,0,0,0.8)]">
-                    Construyendo el futuro, juntos.
+                    Comunidades Aliadas <br />
                 </h2>
 
                 <p className="text-center mx-auto text-lg mt-6 max-w-2xl leading-relaxed
