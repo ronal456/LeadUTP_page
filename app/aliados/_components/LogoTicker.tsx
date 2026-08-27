@@ -23,7 +23,7 @@ export default function LogoTicker() {
     return (
         <section className='mt-16 py-2 overflow-x-clip'>
             <div className='container mx-auto'>
-                <h3 className='text-center text-white/50 text-xl'>
+                <h3 className='text-2xl font-bold text-white/70 text-center mb-10'>
                     Comunidades y empresas que confian en nosotros
                 </h3>
 
