@@ -32,7 +32,7 @@ export default function AlliedHero() {
                 <h1 className="text-7xl md:text-8xl font-extrabold text-center mt-2 leading-tight
                     bg-gradient-to-r from-pink-400 via-rose-400 to-purple-500 bg-clip-text text-transparent
                     drop-shadow-[0_2px_24px_rgba(199,46,96,0.5)]">
-                    LEAD
+                    LEAD UTP
 
                 </h1>
 
