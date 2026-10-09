@@ -20,7 +20,7 @@ export default function AlliedHero() {
             <div className="absolute left-6 bottom-10 z-10 flex items-center gap-4">
                 <Image
                     src={utplogo} alt="Logo de UTP"
-                    width={160} />
+                    width={160} height={55} />
             </div>
             <div className="container mx-auto relative z-10 py-32">
                 <div className="flex justify-center mb-6">

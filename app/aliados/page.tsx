@@ -1,4 +1,4 @@
-import AlliedHero from "./_components/AlliedHero";
+import AlliedHero from "./_components/alliedhero";
 import LogoTicker from "./_components/LogoTicker";
 import { BenefitsSection } from "./_components/BenefitsSection";
 
